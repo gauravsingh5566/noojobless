@@ -198,8 +198,8 @@ if(isset($_SESSION['id_user']) || isset($_SESSION['id_company'])) {
 
   <footer class="main-footer" style="margin-left: 0px;">
     <div class="text-center">
-      <strong>Copyright &copy; 2016-2017 <a href="jonsnow.netai.net">Job Portal</a>.</strong> All rights
-    reserved.
+    All rights
+    reserved to commerce college.
     </div>
   </footer>
 
